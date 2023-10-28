@@ -86,9 +86,7 @@ public class Bookstoremain {
                         System.out.println("Email: " + customer.getEmail());
                         System.out.println("PhoneNumber: " + customer.getPhoneNumber());
                         
-                        
-                        
-                    
+   
                    
                 }
                 }
